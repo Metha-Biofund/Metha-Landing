@@ -1,0 +1,22 @@
+
+
+
+.my-background{
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 1)),
+    url(../images/dna_blockchain.jpg);
+    background-position: 50% 50%;
+  }
+
+  .my-background-stat{
+    background: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    url(../images/dna_blockchain.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  }
+
+  .section-tokendes{
+      margin-top: 20px;
+      padding-top: 30px !important;
+      padding-bottom: 30px !important;
+  }
