@@ -1,0 +1,12 @@
+{
+  "name": "Metha-Landing",
+  "version": "1.0.0",
+  "description": "New Landing page",
+  "main": "index.js",
+  "repository": "https://github.com/Metha-Biofund/Metha-Landing.git",
+  "author": "Jose Victor <victor@metha.life>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
